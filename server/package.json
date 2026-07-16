@@ -1,0 +1,29 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "back-end",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/app.js"
+  },
+  "author": "Aravind Balaji <aravindo2011@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.66.0",
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "nodemon": "^3.1.10",
+    "openai": "^6.4.0",
+    "pg": "^8.16.3"
+  },
+  "contributors": [
+    "Aravind Balaji",
+    "Ashmiya VijayaChandran",
+    "Thejus Thomson",
+    "Guhan Santhanam SP"
+  ]
+}
