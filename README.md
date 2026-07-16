@@ -215,13 +215,6 @@ The full PostgreSQL schema (users, personas, questions, sessions, responses, ana
 
 This hackathon reinforced the power of retrieval-augmented, domain-specific AI. The key insight was that MSLs don't need generic AI — they need AI that understands their specific document corpus and can provide contextually relevant practice scenarios.
 
-## 👥 Team — Northeastern University
-
-- Aravind Balaji
-- Guhan Santhanam SP
-- Thejus Thomson
-- Ashmiya VijayaChandran
-
 Challenge sponsored by the **DNATE Engineering Team**.
 
 ## 📄 License
