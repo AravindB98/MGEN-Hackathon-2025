@@ -1,4 +1,4 @@
-# DNATE MSL Practice Gym — 🏆 1st Place, MGEN (now SEIS) Hackathon 2025
+# DNATE MSL Practice Gym — 🏆 1st Place, Northeastern University MGEN (now SEIS) Hackathon 2025
 
 **AI-driven Practice & Performance Dashboard for Medical Science Liaisons**
 
@@ -226,4 +226,4 @@ Challenge sponsored by the **DNATE Engineering Team**.
 
 ## 📄 License
 
-This project was built for the DNATE challenge at the MGEN (now SEIS) Hackathon 2025, Northeastern University.
+This project was built for the DNATE challenge at the MGEN (now SEIS) Hackathon 2025, Northeastern University.All Hackathon Project files removed due to Proprietary copyright license of DNATE & NDA Signed by Participants.
