@@ -217,10 +217,10 @@ This hackathon reinforced the power of retrieval-augmented, domain-specific AI. 
 
 ## 👥 Team — Northeastern University
 
-- **Aravind Balaji** — [LinkedIn](https://www.linkedin.com/in/aravindbalaji) 
-- Ashmiya VijayaChandran
-- Thejus Thomson
+- Aravind Balaji
 - Guhan Santhanam SP
+- Thejus Thomson
+- Ashmiya VijayaChandran
 
 Challenge sponsored by the **DNATE Engineering Team**.
 
