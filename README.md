@@ -4,7 +4,7 @@
 
 Built from scratch in 48 hours at the **MGEN (now SEIS) Hackathon 2025, Northeastern University** (Oct 15–17, 2025), in partnership with **DNATE** — and **winner of 1st place** against 10+ competing teams.
 
-**🔗 Live demo:** https://msl-practice-gym-oats.vercel.app
+**🔗 Live demo:** Removed due to copyright
 
 ## 🏆 The Hackathon
 
