@@ -217,7 +217,7 @@ This hackathon reinforced the power of retrieval-augmented, domain-specific AI. 
 
 ## 👥 Team — Northeastern University
 
-- **Aravind Balaji** — [LinkedIn](https://www.linkedin.com/in/aravindbalaji) · aravindo2011@gmail.com
+- **Aravind Balaji** — [LinkedIn](https://www.linkedin.com/in/aravindbalaji) 
 - Ashmiya VijayaChandran
 - Thejus Thomson
 - Guhan Santhanam SP
